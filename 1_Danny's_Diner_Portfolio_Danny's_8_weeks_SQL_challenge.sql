@@ -149,7 +149,6 @@ HAVING COUNT(S.product_id) =
 		) Number_of_purchase
 	);
 
-
     
 -- 5. Which item was the most popular for each customer?
 

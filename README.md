@@ -103,5 +103,5 @@ Based on the analysis, it is recommended that
 
 
 ### References
-[Katie Huang Xiemin](https://medium.com/analytics-vidhya/8-week-sql-challenge-case-study-week-1-dannys-diner-2ba026c897ab)
-[Learning SQL_Generate, manipulate and retrieve data](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
+- [Katie Huang Xiemin](https://medium.com/analytics-vidhya/8-week-sql-challenge-case-study-week-1-dannys-diner-2ba026c897ab)
+- [Learning SQL_Generate, manipulate and retrieve data](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
